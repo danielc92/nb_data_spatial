@@ -21,10 +21,18 @@ These mini projects rely on `python3`. To get started you will need the followin
 
 note: `gdal` needs to be installed before `fiona` and `shapely`. The remaining modules can be installed in any given order.
 
-**installation example:**
+# Installation
+
 ```sh
 pip install gdal
+pip install fiona
+pip install pandas
+pip install shapely
+pip install selenium
+pip install jupyter
 ```
+
+note: `selenium` requires you to download a web driver, which can be found in the **Sources** section under 'Web Driver Downloads for Selenium'.
 
 # Instructions
 After installing the relevant `python` modules you can open any of the following notebooks;
