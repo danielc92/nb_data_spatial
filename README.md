@@ -21,7 +21,7 @@ These mini projects rely on `python3`. To get started you will need the followin
 
 note: `gdal` needs to be installed before 
 
-** installation example: **
+**installation example:**
 ```sh
 pip install gdal
 ```
