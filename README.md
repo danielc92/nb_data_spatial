@@ -19,7 +19,7 @@ These mini projects rely on `python3`. To get started you will need the followin
 - `jupyter`
 - `selenium`
 
-note: `gdal` needs to be installed before 
+note: `gdal` needs to be installed before `fiona` and `shapely`. The remaining modules can be installed in any given order.
 
 **installation example:**
 ```sh
