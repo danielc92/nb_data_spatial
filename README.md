@@ -1,4 +1,4 @@
-# (nb_)
+# Geospatial Data Analysis (python_nb_data_spatial)
 This repository contains a collection of `jupyter notebooks` which focus on solving problems with `python` in the geospatial area of analytics. Key problems are detailed below;
 - Geocoding
 - Reverse Geocoding
@@ -6,6 +6,11 @@ This repository contains a collection of `jupyter notebooks` which focus on solv
 - Euclidean Distance
 
 # Setup 
+To obtain this repository run the following command in terminal:
+```sh
+git clone https://github.com/danielc92/python_nb_data_spatial.git
+```
+
 These mini projects rely on `python3`. To get started you will need the following libraries.
 - `pandas`
 - `gdal`
